@@ -1,17 +1,11 @@
-# ecommerce
+# Fashion Store
+## Documentation
 
-A new Flutter project.
+### Mock API's used from http://fakestoreapi.com/docs
 
-## Getting Started
+### Global state management tool used: Provider
 
-This project is a starting point for a Flutter application.
+### The caching mechanism used is as follows
+####  -CacheImageProvider package for caching images
+####  -sqlflite package for caching data into sql tables 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# fashionStore
